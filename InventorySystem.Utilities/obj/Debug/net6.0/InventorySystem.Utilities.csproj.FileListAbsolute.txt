@@ -1,0 +1,12 @@
+E:\Projects\ASP\Complete Guide ASP.NET Core Mvc (Net7.0)\InventorySystemV6\InventorySystem.Utilities\bin\Debug\net6.0\InventorySystem.Utilities.deps.json
+E:\Projects\ASP\Complete Guide ASP.NET Core Mvc (Net7.0)\InventorySystemV6\InventorySystem.Utilities\bin\Debug\net6.0\InventorySystem.Utilities.dll
+E:\Projects\ASP\Complete Guide ASP.NET Core Mvc (Net7.0)\InventorySystemV6\InventorySystem.Utilities\bin\Debug\net6.0\InventorySystem.Utilities.pdb
+E:\Projects\ASP\Complete Guide ASP.NET Core Mvc (Net7.0)\InventorySystemV6\InventorySystem.Utilities\obj\Debug\net6.0\InventorySystem.Utilities.csproj.AssemblyReference.cache
+E:\Projects\ASP\Complete Guide ASP.NET Core Mvc (Net7.0)\InventorySystemV6\InventorySystem.Utilities\obj\Debug\net6.0\InventorySystem.Utilities.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\ASP\Complete Guide ASP.NET Core Mvc (Net7.0)\InventorySystemV6\InventorySystem.Utilities\obj\Debug\net6.0\InventorySystem.Utilities.AssemblyInfoInputs.cache
+E:\Projects\ASP\Complete Guide ASP.NET Core Mvc (Net7.0)\InventorySystemV6\InventorySystem.Utilities\obj\Debug\net6.0\InventorySystem.Utilities.AssemblyInfo.cs
+E:\Projects\ASP\Complete Guide ASP.NET Core Mvc (Net7.0)\InventorySystemV6\InventorySystem.Utilities\obj\Debug\net6.0\InventorySystem.Utilities.csproj.CoreCompileInputs.cache
+E:\Projects\ASP\Complete Guide ASP.NET Core Mvc (Net7.0)\InventorySystemV6\InventorySystem.Utilities\obj\Debug\net6.0\InventorySystem.Utilities.dll
+E:\Projects\ASP\Complete Guide ASP.NET Core Mvc (Net7.0)\InventorySystemV6\InventorySystem.Utilities\obj\Debug\net6.0\refint\InventorySystem.Utilities.dll
+E:\Projects\ASP\Complete Guide ASP.NET Core Mvc (Net7.0)\InventorySystemV6\InventorySystem.Utilities\obj\Debug\net6.0\InventorySystem.Utilities.pdb
+E:\Projects\ASP\Complete Guide ASP.NET Core Mvc (Net7.0)\InventorySystemV6\InventorySystem.Utilities\obj\Debug\net6.0\ref\InventorySystem.Utilities.dll

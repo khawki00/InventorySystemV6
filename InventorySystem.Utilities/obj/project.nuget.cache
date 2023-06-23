@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "xBEQu0TyFiLunrt5S01wLLKyT7H6jWzJsqNPbEGUuBl5zYHfUk0PnwnrbC0PFNUL328A5YxdBrz/Vut6jP/pwg==",
+  "success": true,
+  "projectFilePath": "E:\\Projects\\ASP\\Complete Guide ASP.NET Core Mvc (Net7.0)\\InventorySystemV6\\InventorySystem.Utilities\\InventorySystem.Utilities.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\khawk\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.19\\microsoft.windowsdesktop.app.ref.6.0.19.nupkg.sha512",
+    "C:\\Users\\khawk\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.19\\microsoft.netcore.app.ref.6.0.19.nupkg.sha512",
+    "C:\\Users\\khawk\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.19\\microsoft.aspnetcore.app.ref.6.0.19.nupkg.sha512"
+  ],
+  "logs": []
+}

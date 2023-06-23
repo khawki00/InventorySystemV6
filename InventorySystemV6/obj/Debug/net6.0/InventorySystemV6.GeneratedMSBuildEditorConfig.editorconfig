@@ -12,20 +12,36 @@ build_property.RootNamespace = InventorySystemV6
 build_property.ProjectDir = E:\Projects\ASP\Complete Guide ASP.NET Core Mvc (Net7.0)\InventorySystemV6\InventorySystemV6\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
-build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = true
 build_property.MSBuildProjectDirectory = E:\Projects\ASP\Complete Guide ASP.NET Core Mvc (Net7.0)\InventorySystemV6\InventorySystemV6
 build_property._RazorSourceGeneratorDebug = 
+
+[E:/Projects/ASP/Complete Guide ASP.NET Core Mvc (Net7.0)/InventorySystemV6/InventorySystemV6/Areas/Admin/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Projects/ASP/Complete Guide ASP.NET Core Mvc (Net7.0)/InventorySystemV6/InventorySystemV6/Areas/Admin/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
 
 [E:/Projects/ASP/Complete Guide ASP.NET Core Mvc (Net7.0)/InventorySystemV6/InventorySystemV6/Areas/Identity/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Projects/ASP/Complete Guide ASP.NET Core Mvc (Net7.0)/InventorySystemV6/InventorySystemV6/Views/Home/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+[E:/Projects/ASP/Complete Guide ASP.NET Core Mvc (Net7.0)/InventorySystemV6/InventorySystemV6/Areas/Inventory/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSW52ZW50b3J5XFZpZXdzXEhvbWVcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Projects/ASP/Complete Guide ASP.NET Core Mvc (Net7.0)/InventorySystemV6/InventorySystemV6/Views/Home/Privacy.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+[E:/Projects/ASP/Complete Guide ASP.NET Core Mvc (Net7.0)/InventorySystemV6/InventorySystemV6/Areas/Inventory/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSW52ZW50b3J5XFZpZXdzXEhvbWVcUHJpdmFjeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Projects/ASP/Complete Guide ASP.NET Core Mvc (Net7.0)/InventorySystemV6/InventorySystemV6/Areas/Inventory/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSW52ZW50b3J5XFZpZXdzXF9WaWV3SW1wb3J0cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Projects/ASP/Complete Guide ASP.NET Core Mvc (Net7.0)/InventorySystemV6/InventorySystemV6/Areas/Inventory/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSW52ZW50b3J5XFZpZXdzXF9WaWV3U3RhcnQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [E:/Projects/ASP/Complete Guide ASP.NET Core Mvc (Net7.0)/InventorySystemV6/InventorySystemV6/Views/Shared/Error.cshtml]

@@ -1,0 +1,15 @@
+E:\Projects\ASP\Complete Guide ASP.NET Core Mvc (Net7.0)\InventorySystemV6\InventorySystem.Models\bin\Debug\net6.0\InventorySystem.Models.deps.json
+E:\Projects\ASP\Complete Guide ASP.NET Core Mvc (Net7.0)\InventorySystemV6\InventorySystem.Models\bin\Debug\net6.0\InventorySystem.Models.dll
+E:\Projects\ASP\Complete Guide ASP.NET Core Mvc (Net7.0)\InventorySystemV6\InventorySystem.Models\bin\Debug\net6.0\InventorySystem.Models.pdb
+E:\Projects\ASP\Complete Guide ASP.NET Core Mvc (Net7.0)\InventorySystemV6\InventorySystem.Models\obj\Debug\net6.0\InventorySystem.Models.csproj.AssemblyReference.cache
+E:\Projects\ASP\Complete Guide ASP.NET Core Mvc (Net7.0)\InventorySystemV6\InventorySystem.Models\obj\Debug\net6.0\InventorySystem.Models.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\ASP\Complete Guide ASP.NET Core Mvc (Net7.0)\InventorySystemV6\InventorySystem.Models\obj\Debug\net6.0\InventorySystem.Models.AssemblyInfoInputs.cache
+E:\Projects\ASP\Complete Guide ASP.NET Core Mvc (Net7.0)\InventorySystemV6\InventorySystem.Models\obj\Debug\net6.0\InventorySystem.Models.AssemblyInfo.cs
+E:\Projects\ASP\Complete Guide ASP.NET Core Mvc (Net7.0)\InventorySystemV6\InventorySystem.Models\obj\Debug\net6.0\InventorySystem.Models.csproj.CoreCompileInputs.cache
+E:\Projects\ASP\Complete Guide ASP.NET Core Mvc (Net7.0)\InventorySystemV6\InventorySystem.Models\obj\Debug\net6.0\InventorySystem.Models.dll
+E:\Projects\ASP\Complete Guide ASP.NET Core Mvc (Net7.0)\InventorySystemV6\InventorySystem.Models\obj\Debug\net6.0\refint\InventorySystem.Models.dll
+E:\Projects\ASP\Complete Guide ASP.NET Core Mvc (Net7.0)\InventorySystemV6\InventorySystem.Models\obj\Debug\net6.0\InventorySystem.Models.pdb
+E:\Projects\ASP\Complete Guide ASP.NET Core Mvc (Net7.0)\InventorySystemV6\InventorySystem.Models\obj\Debug\net6.0\ref\InventorySystem.Models.dll
+E:\Projects\ASP\Complete Guide ASP.NET Core Mvc (Net7.0)\InventorySystemV6\InventorySystem.Models\bin\Debug\net6.0\InventorySystem.Utilities.dll
+E:\Projects\ASP\Complete Guide ASP.NET Core Mvc (Net7.0)\InventorySystemV6\InventorySystem.Models\bin\Debug\net6.0\InventorySystem.Utilities.pdb
+E:\Projects\ASP\Complete Guide ASP.NET Core Mvc (Net7.0)\InventorySystemV6\InventorySystem.Models\obj\Debug\net6.0\InventorySystem.Models.csproj.CopyComplete

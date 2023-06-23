@@ -1,0 +1,17 @@
+E:\Projects\ASP\Complete Guide ASP.NET Core Mvc (Net7.0)\InventorySystemV6\InventorySystem.DataAcess\obj\Debug\net6.0\InventorySystem.DataAcess.csproj.AssemblyReference.cache
+E:\Projects\ASP\Complete Guide ASP.NET Core Mvc (Net7.0)\InventorySystemV6\InventorySystem.DataAcess\obj\Debug\net6.0\InventorySystem.DataAcess.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\ASP\Complete Guide ASP.NET Core Mvc (Net7.0)\InventorySystemV6\InventorySystem.DataAcess\obj\Debug\net6.0\InventorySystem.DataAcess.AssemblyInfoInputs.cache
+E:\Projects\ASP\Complete Guide ASP.NET Core Mvc (Net7.0)\InventorySystemV6\InventorySystem.DataAcess\obj\Debug\net6.0\InventorySystem.DataAcess.AssemblyInfo.cs
+E:\Projects\ASP\Complete Guide ASP.NET Core Mvc (Net7.0)\InventorySystemV6\InventorySystem.DataAcess\obj\Debug\net6.0\InventorySystem.DataAcess.csproj.CoreCompileInputs.cache
+E:\Projects\ASP\Complete Guide ASP.NET Core Mvc (Net7.0)\InventorySystemV6\InventorySystem.DataAcess\bin\Debug\net6.0\InventorySystem.DataAcess.deps.json
+E:\Projects\ASP\Complete Guide ASP.NET Core Mvc (Net7.0)\InventorySystemV6\InventorySystem.DataAcess\bin\Debug\net6.0\InventorySystem.DataAcess.dll
+E:\Projects\ASP\Complete Guide ASP.NET Core Mvc (Net7.0)\InventorySystemV6\InventorySystem.DataAcess\bin\Debug\net6.0\InventorySystem.DataAcess.pdb
+E:\Projects\ASP\Complete Guide ASP.NET Core Mvc (Net7.0)\InventorySystemV6\InventorySystem.DataAcess\obj\Debug\net6.0\InventorySystem.DataAcess.dll
+E:\Projects\ASP\Complete Guide ASP.NET Core Mvc (Net7.0)\InventorySystemV6\InventorySystem.DataAcess\obj\Debug\net6.0\refint\InventorySystem.DataAcess.dll
+E:\Projects\ASP\Complete Guide ASP.NET Core Mvc (Net7.0)\InventorySystemV6\InventorySystem.DataAcess\obj\Debug\net6.0\InventorySystem.DataAcess.pdb
+E:\Projects\ASP\Complete Guide ASP.NET Core Mvc (Net7.0)\InventorySystemV6\InventorySystem.DataAcess\obj\Debug\net6.0\ref\InventorySystem.DataAcess.dll
+E:\Projects\ASP\Complete Guide ASP.NET Core Mvc (Net7.0)\InventorySystemV6\InventorySystem.DataAcess\bin\Debug\net6.0\InventorySystem.Models.dll
+E:\Projects\ASP\Complete Guide ASP.NET Core Mvc (Net7.0)\InventorySystemV6\InventorySystem.DataAcess\bin\Debug\net6.0\InventorySystem.Utilities.dll
+E:\Projects\ASP\Complete Guide ASP.NET Core Mvc (Net7.0)\InventorySystemV6\InventorySystem.DataAcess\bin\Debug\net6.0\InventorySystem.Models.pdb
+E:\Projects\ASP\Complete Guide ASP.NET Core Mvc (Net7.0)\InventorySystemV6\InventorySystem.DataAcess\bin\Debug\net6.0\InventorySystem.Utilities.pdb
+E:\Projects\ASP\Complete Guide ASP.NET Core Mvc (Net7.0)\InventorySystemV6\InventorySystem.DataAcess\obj\Debug\net6.0\InventorySystem.DataAcess.csproj.CopyComplete
